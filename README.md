@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-repositorio de prueba del curso de Henry
+prueba de como clonar un repocitorio y clonarlo desde guthub a mi computadora
+
